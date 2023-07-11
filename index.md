@@ -4,6 +4,9 @@ layout: default
 
 # Momi e.V. Mittagsbetreuung an der Montessorischule Großhadern
 
+* TOC
+{:toc}
+
 ## Allgemeines
 
 Die MoMi Mittagsbetreuung besteht seit 2007 an der (https://aktionsonnenschein.com/montessori-schule/)[Heiglhofschule in München-Großhadern]. Sie ist als gemeinnütziger, eingetragener Verein organisiert und bietet den Grundschulkindern der Montessorischule eine verantwortungsvolle, strukturierte und flexible Betreuung in kleinen, geschlossenen Gruppen, mit gemeinsamen Mittagessen, Hausaufgabenbetreuung, sowie Erholung, Spiel und Spaß nach den Prinzipien Maria Montessoris.
