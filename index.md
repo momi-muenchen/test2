@@ -13,9 +13,9 @@ Die MoMi Mittagsbetreuung besteht seit 2007 an der [Heiglhofschule in München-G
 
 ## Das sind wir
 
-*   4 Gruppen mit ca. 15 Kindern und 2 Betreuerinnen in eigenen Bildungsdorf-Räumen
-*   Eine Klassenstufe pro Gruppe (Kinder aus den Klassen b,c und d)
-*   Betreuung von Kindern mit und ohne Förderbedarf
+* 4 Gruppen mit ca. 15 Kindern und 2 Betreuerinnen in eigenen Bildungsdorf-Räumen
+* Eine Klassenstufe pro Gruppe (Kinder aus den Klassen b,c und d)
+* Betreuung von Kindern mit und ohne Förderbedarf
 * Eine feste Gruppenleitung, die in der Regel die Kinder
 von der 1. bis zur 4. Klasse begleitet
 * Betreuungszeit ab Schulschluss bis maximal 16.00 Uhr
@@ -67,17 +67,13 @@ Eltern angewiesen.
 
 ## Kosten und Organisatorisches
 
-
-Betreuungsbeitrag: 130,00 Euro im Monat
-Essensbeitrag (Mittagessen): 4,40 Euro pro Essen
-Beides ist der Stand Dezember 2022. Die Kosten können sich ändern, bitte aktuelle Kosten
-bei Bedarf anfragen (siehe E-Mail-Adressen unten)
-
-Vormerkung auf einen Platz in der MoMi:
-Vormerkung-Nachmittagsbetreuung@gmx.de
-Allgemeine Fragen oder Anfragen zur MoMi:
-Momi-kinder@gmx.de
-Förderverein für die MoMi Heiglhofstr. München e.V.
-Mittagsbetreuung
-Heiglhofstr. 63
+* **Betreuungsbeitrag** : 130,00 Euro im Monat (Stand im Juli 2023)
+* Die Kosten können sich ändern, bitte aktuelle Kosten bei Bedarf anfragen (siehe E-Mail-Adressen unten).
+* **Vormerkung auf einen Platz in der MoMi**: vormerkung@momi-muenchen.de
+* **Allgemeine Fragen oder Anfragen zur MoMi**:
+    * info@momi-muenchen.de
+* **Adresse**:
+Förderverein für die MoMi Heiglhofstr. München e.V.<br>
+Mittagsbetreuung<br>
+Heiglhofstr. 63<br>
 81377 München
