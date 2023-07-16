@@ -8,14 +8,20 @@ permalink: /impressum
 
 ## Impressum
 
-Förderverein für die MoMi Heiglhofstr. München e.V.<br>
-Mittagsbetreuung<br>
+MoMi e.V. Mittagsbetreuung<br>
 Heiglhofstr. 63<br>
 81377 München<br>
 
-**Kontakt Allgemein**: info@momi-muenchen.de <br>
-**Kontakt Vorstand**: vorstand@momi-muenchen.de
+### Vertretungsberechtigter Vorstand
+Niklas Wick<br>
+Belinda Maroschik<br>
+Denise Hofer-Schatz<br>
 
+**Kontakt:** vorstand@momi-muenchen.de
+
+## Verantwortlich für den Inhalt lt. § 6 TDG
+
+admin@momi-muenchen.de
 
 ## Datenschutz
 

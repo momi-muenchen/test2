@@ -74,7 +74,6 @@ Eltern angewiesen.
 * **Allgemeine Fragen oder Anfragen zur MoMi**:
     * info@momi-muenchen.de
 * **Adresse**:
-    * Förderverein für die MoMi Heiglhofstr. München e.V.<br>
-Mittagsbetreuung<br>
+    * MoMi e.V. Mittagsbetreuung<br>
 Heiglhofstr. 63<br>
 81377 München
