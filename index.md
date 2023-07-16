@@ -69,11 +69,12 @@ Eltern angewiesen.
 
 * **Betreuungsbeitrag** : 130,00 Euro im Monat (Stand im Juli 2023)
 * Die Kosten können sich ändern, bitte aktuelle Kosten bei Bedarf anfragen (siehe E-Mail-Adressen unten).
-* **Vormerkung auf einen Platz in der MoMi**: vormerkung@momi-muenchen.de
+* **Vormerkung auf einen Platz in der MoMi**: 
+    * vormerkung@momi-muenchen.de
 * **Allgemeine Fragen oder Anfragen zur MoMi**:
     * info@momi-muenchen.de
 * **Adresse**:
-Förderverein für die MoMi Heiglhofstr. München e.V.<br>
+    * Förderverein für die MoMi Heiglhofstr. München e.V.<br>
 Mittagsbetreuung<br>
 Heiglhofstr. 63<br>
 81377 München

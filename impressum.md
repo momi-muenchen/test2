@@ -13,6 +13,9 @@ Mittagsbetreuung<br>
 Heiglhofstr. 63<br>
 81377 München<br>
 
+**Kontakt Allgemein**: info@momi-muenchen.de <br>
+**Kontakt Vorstand**: vorstand@momi-muenchen.de
+
 
 ## Datenschutz
 
